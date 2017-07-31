@@ -5,8 +5,6 @@ using namespace std;
 class parse_input_txt {
 public:
     string txtfile = "calibration_input.txt";
-//    int pic_num = 10;
-//    int step = 2;
     string data[100][100];
     int data_nums = 0;
 
